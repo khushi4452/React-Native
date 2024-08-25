@@ -3,6 +3,6 @@
 
 
 
-<img src="./Screenshot (285).png"  width="28%" height="28%">
+![Screenshot (285)](https://github.com/user-attachments/assets/0b95b137-2a07-45de-8ab5-5991014846fe)
 
 
