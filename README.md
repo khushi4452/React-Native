@@ -1,2 +1,2 @@
-# Welcome to the Expo app 👋
+# Welcome to  Expo app 👋
 
