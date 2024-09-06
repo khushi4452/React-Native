@@ -50,7 +50,7 @@ fs.rename(oldDirPath, newDirPath, (error) => {
 
   fs.mkdir(newAppDirPath, { recursive: true }, (error) => {
     if (error) {
-      return console.error(`Error creating new app directory: ${error}`);
+      return console.error(`Error creating  the new app directory: ${error}`);
     }
     console.log('New /app directory created.');
 
